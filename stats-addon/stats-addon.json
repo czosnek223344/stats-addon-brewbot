@@ -1,0 +1,7 @@
+{
+  "name": "Stats Addon",
+  "version": "1.0.0",
+  "author": "4Fix",
+  "description": "Tracks player kills, deaths, damage. Use !stats <player> via /msg",
+  "entry": "index.js"
+}
